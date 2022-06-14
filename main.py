@@ -22,5 +22,3 @@ while True:
         f.write(f"discord.gift/{code}\n")
     else:
         print(f"https://discord.gift/{code}")
-
-        #Script by JONI YT
